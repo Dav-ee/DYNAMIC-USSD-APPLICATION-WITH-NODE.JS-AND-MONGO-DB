@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_PWD": "MONGO_DB_PASSWORD"
+    }
+}
